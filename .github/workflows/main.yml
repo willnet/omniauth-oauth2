@@ -2,7 +2,7 @@ name: Ruby
 
 on:
   push:
-    branches: [ master ]
+    branches: [ update-ci ]
   pull_request:
     branches: [ master ]
 
